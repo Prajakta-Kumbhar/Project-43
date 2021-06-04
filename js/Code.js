@@ -14,7 +14,7 @@ function clues()
 
     fill("white")
     textSize(15)
-    text("A T A D A S B A",400,180)
+    text("A T A D E S B A",400,180)
     fill("lightblue")
     text("Hint: Collects all data or information!", 400,200)
 
